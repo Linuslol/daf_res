@@ -14,9 +14,9 @@ CMake Error at C:/Program Files/JetBrains/CLion 2023.1.1/bin/cmake/win/x64/share
 
   It fails with the following output:
 
-    Change Dir: //wsl$/Ubuntu/home/linus/daf_res/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-53yex0
+    Change Dir: //wsl$/Ubuntu/home/linus/daf_res/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-it85db
     
-    Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe cmTC_8a7bd && ninja: error: '//wsl$/Ubuntu/home/linus/daf_res/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-53yex0/testCCompiler.c', needed by 'CMakeFiles/cmTC_8a7bd.dir/testCCompiler.c.obj', missing and no known rule to make it
+    Run Build Command(s):C:/Program Files/JetBrains/CLion 2023.1.1/bin/ninja/win/x64/ninja.exe cmTC_f37e8 && ninja: error: '//wsl$/Ubuntu/home/linus/daf_res/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-it85db/testCCompiler.c', needed by 'CMakeFiles/cmTC_f37e8.dir/testCCompiler.c.obj', missing and no known rule to make it
     
     
 
